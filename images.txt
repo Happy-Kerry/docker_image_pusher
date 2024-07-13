@@ -1,2 +1,1 @@
-powerjob/powerjob-mysql:latest
-powerjob/powerjob-worker-samples:latest
+adoptopenjdk:8-jdk-hotspot
